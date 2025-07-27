@@ -125,7 +125,7 @@ Date,Value
 **Tharun Teja**  
 👨‍🎓 Student @ Malla Reddy Engineering College  
 💼 Passionate about AI, Data Science & Full-Stack Projects  
-📫 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
+📫 [LinkedIn](https://www.linkedin.com/in/chanda-tharunteja-277611258/) | [GitHub](https://github.com/Tharun-9391)
 
 ---
 
