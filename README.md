@@ -97,17 +97,7 @@ Date,Value
 
 ---
 
-## 📸 Screenshots
 
-### Dashboard Homepage  
-> COVID-19 Visualization + Upload Option  
-![dashboard_home](screenshots/home.png)
-
-### Uploaded Data Visualization  
-> After user uploads their own dataset  
-![uploaded_data](screenshots/uploaded_data.png)
-
----
 
 ## 🛠️ Tools Used
 
