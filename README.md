@@ -18,19 +18,24 @@ This project is a Streamlit-based interactive dashboard that visualizes **COVID-
 ## 📁 Project Structure
 
 ```
-time-series-data-visualization/
+time-series-visualization/
 │
-├── covid_model/
-│   ├── model.pkl               # Pretrained COVID-19 prediction model
-│   └── covid_data.csv          # Historical COVID-19 data
-│
-├── user_data/
-│   └── (Uploaded datasets go here)
-│
-├── app.py                      # Main Streamlit app
-├── utils.py                    # Helper functions
-├── requirements.txt            # Required Python packages
-└── README.md                   # Project documentation
+├── __pycache__/                  # Compiled Python files
+│   └── utils.cpython-312.pyc
+├── models/
+│   └── bayesian_model.pkl        # Pre-trained model for forecasting
+├── pratice datasets/            # Sample datasets for testing
+│   ├── DailyDelhiClimateTest.csv
+│   ├── Microsoft_Stock.csv
+│   ├── Month_Value_1.csv
+│   ├── ma_lga_12345.csv
+│   └── test.csv
+├── static/                      # For static files like images, CSS
+│   └── sample_dataset.csv
+├── app.py                       # Main Flask app
+├── requirements.txt             # Required Python packages
+├── utils.py                     # Helper functions
+└── README.md                    # Project documentation (this file)
 ```
 
 ---
